@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "羊座",
+      "hp": 50,
+      "mp": 50,
+      "atk": 20,
+      "def": 80,
+      "path": "images/01.png"
+    },
+    {
+      "id": "2",
+      "name": "牡牛座",
+      "hp": 100,
+      "mp": 0,
+      "atk": 80,
+      "def": 20,
+      "path": "images/02.png"
+    },
+    {
+      "id": "3",
+      "name": "双子座",
+      "hp": 30,
+      "mp": 70,
+      "atk": 30,
+      "def": 70,
+      "path": "images/03.png"
+    },
+    {
+      "id": "4",
+      "name": "蟹座",
+      "hp": 20,
+      "mp": 80,
+      "atk": 30,
+      "def": 70,
+      "path": "images/04.png"
+    },
+    {
+      "id": "5",
+      "name": "獅子座",
+      "hp": 80,
+      "mp": 20,
+      "atk": 90,
+      "def": 10,
+      "path": "images/05.png"
+    },
+    {
+      "id": "6",
+      "name": "乙女座",
+      "hp": 60,
+      "mp": 40,
+      "atk": 40,
+      "def": 60,
+      "path": "images/06.png"
+    },
+    {
+      "id": "7",
+      "name": "天秤座",
+      "hp": 30,
+      "mp": 70,
+      "atk": 10,
+      "def": 90,
+      "path": "images/07.png"
+    },
+    {
+      "id": "8",
+      "name": "蠍座",
+      "hp": 10,
+      "mp": 90,
+      "atk": 80,
+      "def": 20,
+      "path": "images/08.png"
+    },
+    {
+      "id": "9",
+      "name": "射手座",
+      "hp": 70,
+      "mp": 30,
+      "atk": 70,
+      "def": 30,
+      "path": "images/09.png"
+    },
+    {
+      "id": "10",
+      "name": "山羊座",
+      "hp": 50,
+      "mp": 50,
+      "atk": 80,
+      "def": 20,
+      "path": "images/10.png"
+    },
+    {
+      "id": "11",
+      "name": "水瓶座",
+      "hp": 50,
+      "mp": 50,
+      "atk": 60,
+      "def": 40,
+      "path": "images/11.png"
+    },
+    {
+      "id": "12",
+      "name": "魚座",
+      "hp": 60,
+      "mp": 40,
+      "atk": 20,
+      "def": 80,
+      "path": "images/12.png"
+    }
+  ]
+}
